@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @perom00
+- 👋 Hi, I’m Petar Matić
 - 👀 I’m interested in fishing hard
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on learning new Java skills
